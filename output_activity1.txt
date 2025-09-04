@@ -1,0 +1,7 @@
+Idade: 30
+Altura: 1.75
+Nome: João
+É estudante? true
+Soma das Idades: 55
+Altura dobrada: 3.5
+Saudação: Olá, João!
